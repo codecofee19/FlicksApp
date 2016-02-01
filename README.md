@@ -34,6 +34,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+The biggest challenge was remembering to build after the cocoa pods were installed. It would say that it didn't recognized
+the certain package, like AFNetworking, but after building and cleaning the workspace again, everything was fine. 
 ## License
 
     Copyright 2016 Harold Jackson
